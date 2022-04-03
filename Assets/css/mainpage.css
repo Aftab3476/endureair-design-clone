@@ -1,0 +1,82 @@
+.btn-endu {
+  background-color: #007bff !important;
+  color: #fff !important;
+  border-radius: 7px !important;
+  font-size: 13px !important;
+}
+.bg-navcolor {
+  background-color: #fff;
+}
+.endu-brand {
+  height: auto;
+  width: 120px;
+}
+.endu-item {
+  font-size: 13px;
+  font-weight: 500;
+  color: #000;
+  font-weight: 700;
+}
+.endu-we {
+  font-weight: 700;
+  color: #000;
+  font-size: 50px;
+}
+.endu-we2 {
+  font-weight: 700;
+  color: #000;
+  font-size: 25px;
+}
+
+.endure-back-image {
+  background-image: url(../images/endu-white.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  width: 100%;
+}
+.endure-back-image2 {
+  background-image: url("../images/endu-back2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+.endu-manufacture {
+  font-weight: 400;
+  font-size: 21px;
+  padding-right: 70px;
+  line-height: 1.4;
+}
+.endu-manufacture2 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+}
+.endu-btn {
+  background-color: #0097fa !important;
+  border-radius: 2rem !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  font-size: 17px !important;
+}
+.endu-btn2 {
+  background-color: #0097fa !important;
+  border-radius: 2rem !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+}
+@media screen and (max-width: 767px) {
+  .endu-text {
+    text-align: center;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .endu-we {
+    font-size: 37px;
+  }
+  .endu-manufacture {
+    font-size: 21px;
+  }
+}
